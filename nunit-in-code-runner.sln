@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nunit-in-code-runner", "src\nunit-in-code-runner.csproj", "{3F91A375-259B-41D7-B2DE-F85C7C09983F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "example-app", "example-app\example-app\example-app.csproj", "{8B8F496F-9618-4D52-AD9C-E6F49E095B15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F91A375-259B-41D7-B2DE-F85C7C09983F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F91A375-259B-41D7-B2DE-F85C7C09983F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F91A375-259B-41D7-B2DE-F85C7C09983F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F91A375-259B-41D7-B2DE-F85C7C09983F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B8F496F-9618-4D52-AD9C-E6F49E095B15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B8F496F-9618-4D52-AD9C-E6F49E095B15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B8F496F-9618-4D52-AD9C-E6F49E095B15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B8F496F-9618-4D52-AD9C-E6F49E095B15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
